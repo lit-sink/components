@@ -10,9 +10,9 @@ class LoaderElement extends LitElement {
         return html`
             <style>
             .loader {
-              border: 16px solid #f3f3f3;
+              border: 16px solid lightgrey;
               border-radius: 50%;
-              border-top: 16px solid #3498db;
+              border-top: 16px solid darkgoldenrod;
               width: 120px;
               height: 120px;
               -webkit-animation: spin 2s linear infinite; /* Safari */
