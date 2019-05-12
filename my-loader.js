@@ -12,7 +12,7 @@ class LoaderElement extends LitElement {
             .loader {
               border: 16px solid lightgrey;
               border-radius: 50%;
-              border-top: 16px solid darkgoldenrod;
+              border-top: 16px solid green;
               width: 120px;
               height: 120px;
               -webkit-animation: spin 2s linear infinite; /* Safari */
